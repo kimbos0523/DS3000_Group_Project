@@ -1,0 +1,6 @@
+# Geographical-Classification-of-Cities-Around-the-World
+
+In this project, we developed a classification algorithm for predicting the geographical location of cities based on their economic and environmental features. We explored the relationships between these features, and compared their importance in predicting location. Our dataset contained information for 700 cities around the world, and for each city included features such as the cost of rent, quality of healthcare, and level of pollution. Based on these features, our target variable to predict was the continent in which the city located.
+We first explored the relationships between features in our dataset, testing several different hypotheses and creating a number of visualizations. We then trained and tested several different classification models based on the k-Nearest Neighbor, Support Vector Machine, Gaussian Naive Bayes, and Decision Tree algorithms. We found that the k-Nearest Algorithm performed best, and tuned it further to achieve a final test accuracy of 93.18%. We concluded the project with a discussion of our results, and commentary on future extensions of our work.
+
+To see the report, please press the pynb file on the top
